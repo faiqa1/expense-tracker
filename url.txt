@@ -1,0 +1,9 @@
+Post : http://localhost:5001/api/expenses
+
+Get : http://localhost:5001/api/expenses
+
+Update: http://localhost:5000/api/expenses/:id
+
+Delete: http://localhost:5000/api/expenses/:id
+
+Get Summary : http://localhost:5000/api/expenses/summary
